@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\ThreadSafeSingleton.exe.config
+C:\Users\jonat\source\repos\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\ThreadSafeSingleton.exe
+C:\Users\jonat\source\repos\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\ThreadSafeSingleton.pdb
+C:\Users\jonat\source\repos\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\ThreadSafeSingleton.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\ThreadSafeSingleton.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\ThreadSafeSingleton.exe
+C:\Users\jonat\source\repos\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\ThreadSafeSingleton.pdb
