@@ -19,6 +19,11 @@ namespace TSSingleton.Eager
             return instance;
         }
 
+        public int GetCount()
+        {
+            return shapes.Count;
+        }
+
         public void AddToList(Shape shape)
         {
             this.shapes.AddLast(shape);

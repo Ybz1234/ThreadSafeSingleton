@@ -13,7 +13,10 @@ namespace TSSingleton.Lazy
         {
             shapes = new LinkedList<Shape>();
         }
-
+        public int GetCount()
+        {
+            return shapes.Count;
+        }
         public static LinkedListManager GetInstance()
         {
             if (instance == null)

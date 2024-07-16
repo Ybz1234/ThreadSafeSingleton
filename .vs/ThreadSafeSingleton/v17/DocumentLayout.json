@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\threadsafesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|c:\\users\\jonat\\source\\repos\\threadsafesingleton\\threadsafesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|c:\\users\\jonat\\source\\repos\\threadsafesingleton\\threadsafesingleton\\linkedlistmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\linkedlistmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:ThreadSafeSingleton\\LinkedListManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|c:\\users\\jonat\\source\\repos\\threadsafesingleton\\threadsafesingleton\\linkedlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\linkedlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:ThreadSafeSingleton\\LinkedListManager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\threadsafesingleton\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:ThreadSafeSingleton\\Cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\threadsafesingleton\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:ThreadSafeSingleton\\Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\threadsafesingleton\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:ThreadSafeSingleton\\Rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\threadsafesingleton\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:ThreadSafeSingleton\\Triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\threadsafesingleton\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:threadsafesingleton\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE0BDA7-D72A-4790-983D-978E2EF9AFC4}|ThreadSafeSingleton\\ThreadSafeSingleton.csproj|solutionrelative:ThreadSafeSingleton\\Shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,38 +45,38 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinkedListManager2.cs",
-              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager2.cs",
-              "RelativeDocumentMoniker": "ThreadSafeSingleton\\LinkedListManager2.cs",
-              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager2.cs",
-              "RelativeToolTip": "ThreadSafeSingleton\\LinkedListManager2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T15:01:18.072Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LinkedListManager2.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager2.cs",
+              "RelativeDocumentMoniker": "ThreadSafeSingleton\\LinkedListManager2.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager2.cs",
+              "RelativeToolTip": "ThreadSafeSingleton\\LinkedListManager2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:01:18.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LinkedListManager.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager.cs",
               "RelativeDocumentMoniker": "ThreadSafeSingleton\\LinkedListManager.cs",
               "ToolTip": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\LinkedListManager.cs",
               "RelativeToolTip": "ThreadSafeSingleton\\LinkedListManager.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBgAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T16:59:23.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Cylinder.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Cylinder.cs",
               "RelativeDocumentMoniker": "ThreadSafeSingleton\\Cylinder.cs",
@@ -84,12 +84,11 @@
               "RelativeToolTip": "ThreadSafeSingleton\\Cylinder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:50:05.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T16:50:05.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Circle.cs",
               "RelativeDocumentMoniker": "ThreadSafeSingleton\\Circle.cs",
@@ -97,12 +96,11 @@
               "RelativeToolTip": "ThreadSafeSingleton\\Circle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:49:50.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T16:49:50.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Rectangle.cs",
               "RelativeDocumentMoniker": "ThreadSafeSingleton\\Rectangle.cs",
@@ -110,12 +108,11 @@
               "RelativeToolTip": "ThreadSafeSingleton\\Rectangle.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAQwAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:49:42.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T16:49:42.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Triangle.cs",
               "RelativeDocumentMoniker": "ThreadSafeSingleton\\Triangle.cs",
@@ -123,12 +120,11 @@
               "RelativeToolTip": "ThreadSafeSingleton\\Triangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:49:29.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T16:49:29.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Shape.cs",
               "RelativeDocumentMoniker": "ThreadSafeSingleton\\Shape.cs",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "ThreadSafeSingleton\\Shape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:47:11.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T16:47:11.461Z"
             },
             {
               "$type": "Document",
@@ -147,7 +142,7 @@
               "RelativeDocumentMoniker": "ThreadSafeSingleton\\Program.cs",
               "ToolTip": "C:\\Users\\jonat\\source\\repos\\ThreadSafeSingleton\\ThreadSafeSingleton\\Program.cs",
               "RelativeToolTip": "ThreadSafeSingleton\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T16:47:00.581Z",
               "EditorCaption": ""
