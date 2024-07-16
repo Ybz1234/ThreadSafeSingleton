@@ -26,12 +26,6 @@ namespace ThreadSafeSingleton
 
             Console.WriteLine(LinkedListManager.GetInstance().GetCount());
             Console.WriteLine(LinkedListManager.GetInstance());
-
-            Thread t1 = new Thread(() => Hawk());
-            Thread t2 = new Thread(() => Tuah());
-
-            t1.Start();
-            t2.Start();
         }
         static void AddShapes1()
         {
@@ -56,7 +50,6 @@ namespace ThreadSafeSingleton
 
             foreach (Shape shape in shapes)
                 list.AddToList(shape);
-
         }
         static void AddShapes2()
         {
@@ -81,19 +74,6 @@ namespace ThreadSafeSingleton
 
             foreach (Shape shape in shapes)
                 list.AddToList(shape);
-
-
-        }
-
-        public static void Hawk()
-        {
-            for (int i = 0; i < 1000; i++)
-                Console.Write("Hawk ");
-        }
-        public static void Tuah()
-        {
-            for (int i = 0; i < 1000; i++)
-                Console.Write("Tuah ");
         }
     }
 }
